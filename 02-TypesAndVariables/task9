@@ -1,0 +1,7 @@
+from matplotlib.colors import from_levels_and_colors
+
+
+name=input('input your name')
+surname=input('input your surname')
+print(f'your name is {name}',
+f'your surname is {surname}')
